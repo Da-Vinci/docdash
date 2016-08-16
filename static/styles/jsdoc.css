@@ -10,7 +10,7 @@ html, body {
 }
 
 body {
-  color: #4d4e53;
+  color: #fff;
   background-color: #23272A;
   margin: 0 auto;
   padding: 0 20px;
@@ -161,7 +161,6 @@ nav {
   float: left;
   display: block;
   width: 250px;
-  background: #fff;
   overflow: auto;
   position: fixed;
   height: 100%;
@@ -176,7 +175,6 @@ nav h3 {
   line-height: 24px;
   margin: 15px 0 10px;
   padding: 0;
-  color: #000;
 }
 
 nav ul {
