@@ -236,7 +236,6 @@ nav > h2 > a {
 }
 
 footer {
-  color: hsl(0, 0%, 28%);
   margin-left: 250px;
   display: block;
   padding: 15px;
@@ -594,7 +593,7 @@ span.param-type, .params td .param-type, .param-type dd {
     padding: 0;
   }
 
-  footer {
+   {
     margin-left: 0;
   }
 }
