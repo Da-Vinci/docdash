@@ -25,7 +25,7 @@ img {
 
 a,
 a:active {
-  color: #57c3c3;
+  color: #CCD4DA;
   text-decoration: none;
 }
 
@@ -194,7 +194,7 @@ nav ul a:active {
 
 nav a:hover,
 nav a:active {
-  color: #57c3c3;
+  color: #CCD4DA;
 }
 
 nav > ul {
@@ -202,7 +202,7 @@ nav > ul {
 }
 
 nav > ul > li > a {
-  color: #57c3c3;
+  color: #CCD4DA;
 }
 
 nav ul ul {
@@ -232,7 +232,7 @@ nav h2 {
 nav > h2 > a {
    display: block;
    margin: 10px 0 -10px;
-   color: #57c3c3 !important;
+   color: #CCD4DA !important;
 }
 
 footer {
@@ -267,7 +267,7 @@ footer {
 }
 
 .type-signature {
-  color: #c7ebeb;
+  color: #CCD4DA;
 }
 
 .type-signature:last-child {
@@ -279,7 +279,7 @@ footer {
 }
 
 .signature {
-    color: #c0efd0;
+    color: #CCD4DA;
 }
 
 .description {
@@ -412,7 +412,7 @@ footer {
 }
 
 span.param-type, .params td .param-type, .param-type dd {
-   color: #57c3c3;
+   color: #CCD4DA;
   font-family: Consolas, Monaco, 'Andale Mono', monospace
 }
 
