@@ -53,7 +53,7 @@
     <?js } else if (doc.kind === 'class') { ?>
         <?js= self.partial('method.tmpl', doc) ?>
     <?js } else { ?>
-        <?js= self.partial('details.tmpl', doc) ?>
+        <!--<?js= self.partial('details.tmpl', doc) ?>-->
 
         <?js if (doc.description) { ?>
             <div class="description"><?js= doc.description ?></div>
