@@ -247,6 +247,7 @@ footer {
   padding: 15px;
   font-style: italic;
   font-size: 90%;
+  bottom: 0.5em;
 }
 
 .ancestors {
