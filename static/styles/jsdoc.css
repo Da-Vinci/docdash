@@ -286,7 +286,7 @@ footer {
     color: #fc83ff;
 }
 
-.details {
+/*.details {
   margin-top: 6px;
   border-left: 2px solid #DDD;
   line-height: 20px;
@@ -319,7 +319,7 @@ footer {
 
 .details .object-value {
    padding-top: 0
-}
+}*/
 
 .description {
   margin-bottom: 1em;
