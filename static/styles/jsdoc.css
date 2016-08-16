@@ -84,7 +84,7 @@ h4 {
 
 h4.name {
   color: #fff;
-  background: #6d426d;
+  background: #33cc66;
   box-shadow: 0 .25em .5em #d3d3d3;
   border-top: 1px solid #d3d3d3;
   border-bottom: 1px solid #d3d3d3;
@@ -285,41 +285,6 @@ footer {
 .signature {
     color: #fc83ff;
 }
-
-/*.details {
-  margin-top: 6px;
-  border-left: 2px solid #DDD;
-  line-height: 20px;
-  font-size: 14px;
-}
-
-.details dt {
-   width: 120px;
-   float: left;
-   padding-left: 10px;
-}
-
-.details dd {
-   margin-left: 70px;
-   margin-top: 6px;
-   margin-bottom: 6px;
-}
-
-.details ul {
-   margin: 0
-}
-
-.details ul {
-   list-style-type: none
-}
-
-.details pre.prettyprint {
-   margin: 0
-}
-
-.details .object-value {
-   padding-top: 0
-}*/
 
 .description {
   margin-bottom: 1em;
